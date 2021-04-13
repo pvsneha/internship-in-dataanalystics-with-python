@@ -1,0 +1,17 @@
+import math
+print(math.sqrt(25))
+print(math.floor(2.9))
+print(3**2)
+print(math.pow(3,2))
+from math import sqrt
+print(sqrt(25))
+print(5*8)
+print(5.0*8)
+a=input("enter a number")
+print(a)
+print(type(a))
+a = int(input("enter a number"))
+print(a)
+print(type(a))
+a=eval(input("enter an expression"))
+print(a)
